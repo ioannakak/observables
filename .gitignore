@@ -1,0 +1,5 @@
+/.ipynb_checkpoints/
+/*.pdf
+/results.csv
+/results.txt
+/__pycache__/
